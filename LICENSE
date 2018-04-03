@@ -1,5 +1,0 @@
-
-Source code in this repository is variously licensed under the Apache License Version 2.0, the XXXX License, or other Apache compatible licenses. Outside of the "XXXX" folder, source code in a given file is licensed under the Apache License Version 2.0, unless otherwise noted at the beginning of the file or a LICENSE file present in the directory subtree declares a separate license. Within the "XXXX" folder, source code in a given file is licensed under the XXXX License, unless otherwise noted at the beginning of the file or a LICENSE file present in the directory subtree declares a separate license.
-
-The build produces two sets of binaries - one set that falls under the XXXX License and another set that falls under Apache License Version 2.0. The binaries that contain `-oss` in the artifact name are licensed under the Apache License Version 2.0.
-
